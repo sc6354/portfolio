@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction</title>
+    <title>Susan Chen</title>
     <link>https://sc6354.github.io/portfolio/</link>
-    <description>Recent content on Introduction</description>
+    <description>Recent content on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 12:04:16 -0500</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Photography</title>
-      <link>https://sc6354.github.io/portfolio/projects/photography/</link>
+      <title>FACES</title>
+      <link>https://sc6354.github.io/portfolio/projects/faces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sc6354.github.io/portfolio/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>https://sc6354.github.io/portfolio/projects/faces/</guid>
+      <description>My earliest complete body of pieces circa. 2016-2018
+Over the course of two+ years, this collection of portraits were all drawn on various types of paper and with H, B2, B6, B7, and B8 drawing pencils, and with black &amp;amp; gray color pencils.
+During this period, I became interested in the human face and its portions. Although it is true that no two faces have exactly the same features, many faces do share a similar portion and and size.</description>
     </item>
     
     <item>
-      <title>Design</title>
+      <title>FACES 2016</title>
       <link>https://sc6354.github.io/portfolio/projects/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,6 +40,15 @@ If you want to use it for your website, check out the section at the bottom of t
       <guid>https://sc6354.github.io/portfolio/projects/writing/</guid>
       <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
 To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://sc6354.github.io/portfolio/blog/coffee-ipsum/</link>
+      <pubDate>Sun, 01 Nov 2020 12:04:16 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
     </item>
     
     <item>
@@ -77,15 +88,6 @@ Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet r
       
       <guid>https://sc6354.github.io/portfolio/blog/startup-ipsum/</guid>
       <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
-    </item>
-    
-    <item>
-      <title>Coffee Ipsum</title>
-      <link>https://sc6354.github.io/portfolio/blog/coffee-ipsum/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://sc6354.github.io/portfolio/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
     </item>
     
     <item>
