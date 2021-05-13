@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Susan Chen</title>
+    <link>https://sc6354.github.io/portfolio/tags/classification/</link>
+    <description>Recent content in classification on Susan Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 12:04:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://sc6354.github.io/portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1 : Airline Sentiment Classification</title>
+      <link>https://sc6354.github.io/portfolio/blog/project1/</link>
+      <pubDate>Sat, 22 Aug 2020 12:04:16 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project1/</guid>
+      <description>This project attempts to classify twitter tweets about US airline using Logistic Regression as negative, positive, or neutral.
+Project Details:
+ The dataset is publicly available at Kaggle.com. Repo Link  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 12:04:06 -0500</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>code</title>
+      <link>https://sc6354.github.io/portfolio/tags/code/</link>
+      <pubDate>Fri, 06 Nov 2020 12:04:06 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>https://sc6354.github.io/portfolio/tags/ipsum/</link>
+      <pubDate>Fri, 06 Nov 2020 12:04:06 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>https://sc6354.github.io/portfolio/tags/words/</link>
+      <pubDate>Fri, 06 Nov 2020 12:04:06 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/words/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>coffee</title>
@@ -30,38 +57,38 @@
     </item>
     
     <item>
-      <title>ipsum</title>
-      <link>https://sc6354.github.io/portfolio/tags/ipsum/</link>
-      <pubDate>Sun, 01 Nov 2020 12:04:16 -0500</pubDate>
+      <title>classification</title>
+      <link>https://sc6354.github.io/portfolio/tags/classification/</link>
+      <pubDate>Sat, 22 Aug 2020 12:04:16 -0500</pubDate>
       
-      <guid>https://sc6354.github.io/portfolio/tags/ipsum/</guid>
+      <guid>https://sc6354.github.io/portfolio/tags/classification/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>code</title>
-      <link>https://sc6354.github.io/portfolio/tags/code/</link>
-      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      <title>logistic regression</title>
+      <link>https://sc6354.github.io/portfolio/tags/logistic-regression/</link>
+      <pubDate>Sat, 22 Aug 2020 12:04:16 -0500</pubDate>
       
-      <guid>https://sc6354.github.io/portfolio/tags/code/</guid>
+      <guid>https://sc6354.github.io/portfolio/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment</title>
+      <link>https://sc6354.github.io/portfolio/tags/sentiment/</link>
+      <pubDate>Sat, 22 Aug 2020 12:04:16 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/sentiment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
       <link>https://sc6354.github.io/portfolio/tags/blog/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
       <guid>https://sc6354.github.io/portfolio/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>words</title>
-      <link>https://sc6354.github.io/portfolio/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>https://sc6354.github.io/portfolio/tags/words/</guid>
       <description></description>
     </item>
     
