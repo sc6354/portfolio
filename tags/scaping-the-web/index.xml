@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scaping the web on Susan Chen</title>
+    <link>https://sc6354.github.io/portfolio/tags/scaping-the-web/</link>
+    <description>Recent content in scaping the web on Susan Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sc6354.github.io/portfolio/tags/scaping-the-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4 : Korean Skincare Recommender</title>
+      <link>https://sc6354.github.io/portfolio/blog/project4/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project4/</guid>
+      <description>Data used in this project was scraped from the Soko Glam website in September 2020. The nice thing about this website that made it an ideal candidate for this project is that users can browse product listings based on skin type, thereby also making it easy for me to scrape data based on those collections. This is so that I don&amp;rsquo;t need to conduct additional research to determine if a product is best for which skin type (oily, dry, normal, combination.</description>
+    </item>
+    
+  </channel>
+</rss>
