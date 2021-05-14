@@ -6,15 +6,15 @@
     <description>Recent content in levels.fyi salary data on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 12:04:06 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/tags/levels.fyi-salary-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Visualizing Tech Salaries</title>
+      <title>Project 3 : Visualizing Tech Salaries</title>
       <link>https://sc6354.github.io/portfolio/blog/project3/</link>
-      <pubDate>Sun, 30 Aug 2020 12:04:06 -0500</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sc6354.github.io/portfolio/blog/project3/</guid>
       <description>In this project, I extracted tech salary data from levels.fyi.com and created multiple data visualizations to compare salaries, bonuses, benefits, etc. across the FAANG companies.
