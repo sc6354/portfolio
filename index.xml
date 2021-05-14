@@ -61,6 +61,17 @@ To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon fro
     </item>
     
     <item>
+      <title>Project 2: Exo Google Trends</title>
+      <link>https://sc6354.github.io/portfolio/blog/project2/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project2/</guid>
+      <description>Google Trends allows user to search for at most 5 keywords at a time. This project demostrates how to search for more than 5 terms at once using the Google Trends API in python.
+Project Details:
+ I also a medium article for this project. Repo Link  </description>
+    </item>
+    
+    <item>
       <title>Project 1 : Airline Sentiment Classification</title>
       <link>https://sc6354.github.io/portfolio/blog/project1/</link>
       <pubDate>Sat, 22 Aug 2020 12:04:16 -0500</pubDate>
@@ -90,15 +101,6 @@ Here are all the options included in the configuration file for this example sit
       <guid>https://sc6354.github.io/portfolio/blog/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
 Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Undated post</title>
-      <link>https://sc6354.github.io/portfolio/blog/no-date/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sc6354.github.io/portfolio/blog/no-date/</guid>
-      <description>I was born yesterday, tomorrow.</description>
     </item>
     
   </channel>
