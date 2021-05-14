@@ -6,10 +6,21 @@
     <description>Recent content in Visualization on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 12:04:06 -0500</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualizing Tech Salaries</title>
+      <link>https://sc6354.github.io/portfolio/blog/project3/</link>
+      <pubDate>Sun, 30 Aug 2020 12:04:06 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project3/</guid>
+      <description>In this project, I extracted tech salary data from levels.fyi.com and created multiple data visualizations to compare salaries, bonuses, benefits, etc. across the FAANG companies.
+Project Details:
+ Data Source Repo Link  </description>
+    </item>
     
     <item>
       <title>Project 2: Exo Google Trends</title>
