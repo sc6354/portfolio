@@ -8,7 +8,7 @@
   
   <url>
     <loc>https://sc6354.github.io/portfolio/blog/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,33 +24,53 @@
   </url>
   
   <url>
-    <loc>https://sc6354.github.io/portfolio/tags/coffee/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <loc>https://sc6354.github.io/portfolio/tags/flask/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sc6354.github.io/portfolio/tags/images/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sc6354.github.io/portfolio/tags/ipsum/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <loc>https://sc6354.github.io/portfolio/tags/mysql-database/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sc6354.github.io/portfolio/blog/project5/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sc6354.github.io/portfolio/tags/sqlalchemy/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sc6354.github.io/portfolio/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sc6354.github.io/portfolio/tags/</loc>
-    <lastmod>2020-11-01T12:04:16-05:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sc6354.github.io/portfolio/blog/capstone/</loc>
+    <lastmod>2021-04-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sc6354.github.io/portfolio/tags/capstone/</loc>
+    <lastmod>2021-04-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sc6354.github.io/portfolio/tags/topic-modeling/</loc>
+    <lastmod>2021-04-29T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sc6354.github.io/portfolio/tags/twitter-data/</loc>
+    <lastmod>2021-04-29T20:18:53-05:00</lastmod>
   </url>
   
   <url>
@@ -136,16 +156,6 @@
   <url>
     <loc>https://sc6354.github.io/portfolio/blog/configuration/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sc6354.github.io/portfolio/blog/long-form-post/</loc>
-    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sc6354.github.io/portfolio/tags/blog/</loc>
-    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
 </urlset>

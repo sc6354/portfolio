@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter data on Susan Chen</title>
+    <link>https://sc6354.github.io/portfolio/tags/twitter-data/</link>
+    <description>Recent content in twitter data on Susan Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2021 20:18:53 -0500</lastBuildDate>
+    
+	<atom:link href="https://sc6354.github.io/portfolio/tags/twitter-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>**Depression vs. Covid Fatigue**: Data Science Capstone</title>
+      <link>https://sc6354.github.io/portfolio/blog/capstone/</link>
+      <pubDate>Thu, 29 Apr 2021 20:18:53 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/capstone/</guid>
+      <description>Motivation Since the onset of the pandemic, depression has risen, but so has covid fatigue and blues (general feeling of tiredness and sadness). Although the line between blues and depression can be blurry at times, the most obvious difference is in the length of their symptoms. Depressed feelings last much longer with occasional moments of joy, whereas blues can come and go in shorter episodes. Nonetheless, people affected by either pandemic blues or depression have found substantial support groups (online communities around a hashtag) on Twitter to voice their experiences and reassure others going through similar symptoms.</description>
+    </item>
+    
+  </channel>
+</rss>

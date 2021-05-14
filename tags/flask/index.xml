@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flask on Susan Chen</title>
+    <link>https://sc6354.github.io/portfolio/tags/flask/</link>
+    <description>Recent content in flask on Susan Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sc6354.github.io/portfolio/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 5 : Airline Reservation Flask Web App</title>
+      <link>https://sc6354.github.io/portfolio/blog/project5/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project5/</guid>
+      <description>This project consisted of building a flask web app for an airline reservation system. The app is able to handle different signup and login for customers, booking agents, and airline staffs. The app also has different use cases for these three users.
+Customer Use Cases  signup/login search for flights using the airport code and city name purchase flights view personal spending view past and upcoming flights  Booking Agent Use Cases  signup/login search for flights purchase flights for a customer view their commission for a specific range of time view their top customers by commission earned and tickets sold  Airline Staff Use Cases  signup/login searh for &amp;amp; view past and upcoming flights for their airline view top customers and agents view distribution of sales (direct vs indirect) add new planes, airports, &amp;amp; flights update flight status view top destintations  Anonymous User Use Cases  search for flights  Project Details:</description>
+    </item>
+    
+  </channel>
+</rss>

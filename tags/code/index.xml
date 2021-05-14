@@ -22,15 +22,5 @@ Configuration Most of what you&amp;rsquo;ll want to configure is demonstrated in
 Here are all the options included in the configuration file for this example site!  hello hello   Syntax Highlighting Introduction allows the use of Hugo&amp;rsquo;s rich built-in syntax highlighting capabilities.</description>
     </item>
     
-    <item>
-      <title>**Long** Form Post!</title>
-      <link>https://sc6354.github.io/portfolio/blog/long-form-post/</link>
-      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
-      
-      <guid>https://sc6354.github.io/portfolio/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
   </channel>
 </rss>

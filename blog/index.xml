@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,20 @@
     <item>
       <title>Project 5 : Airline Reservation Flask Web App</title>
       <link>https://sc6354.github.io/portfolio/blog/project5/</link>
-      <pubDate>Sun, 01 Nov 2020 12:04:16 -0500</pubDate>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://sc6354.github.io/portfolio/blog/project5/</guid>
-      <description>At, whipped extraction, wings, dark black, breve, single origin, est as irish, caffeine milk half and half, whipped, arabica filter dark a trifecta aftertaste. Aroma galão, at mocha breve cortado lungo beans aromatic robust white dripper whipped and, crema siphon redeye strong robust. Flavour, rich redeye milk wings flavour body aftertaste, coffee, breve instant, ut variety arabica rich mocha trifecta, instant saucer filter id percolator dripper. Chicory, percolator acerbic, dripper a, est milk, frappuccino caffeine viennese, milk and decaffeinated espresso french press mocha.</description>
+      <description>This project consisted of building a flask web app for an airline reservation system. The app is able to handle different signup and login for customers, booking agents, and airline staffs. The app also has different use cases for these three users.
+Customer Use Cases  signup/login search for flights using the airport code and city name purchase flights view personal spending view past and upcoming flights  Booking Agent Use Cases  signup/login search for flights purchase flights for a customer view their commission for a specific range of time view their top customers by commission earned and tickets sold  Airline Staff Use Cases  signup/login searh for &amp;amp; view past and upcoming flights for their airline view top customers and agents view distribution of sales (direct vs indirect) add new planes, airports, &amp;amp; flights update flight status view top destintations  Anonymous User Use Cases  search for flights  Project Details:</description>
+    </item>
+    
+    <item>
+      <title>**Depression vs. Covid Fatigue**: Data Science Capstone</title>
+      <link>https://sc6354.github.io/portfolio/blog/capstone/</link>
+      <pubDate>Thu, 29 Apr 2021 20:18:53 -0500</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/capstone/</guid>
+      <description>Motivation Since the onset of the pandemic, depression has risen, but so has covid fatigue and blues (general feeling of tiredness and sadness). Although the line between blues and depression can be blurry at times, the most obvious difference is in the length of their symptoms. Depressed feelings last much longer with occasional moments of joy, whereas blues can come and go in shorter episodes. Nonetheless, people affected by either pandemic blues or depression have found substantial support groups (online communities around a hashtag) on Twitter to voice their experiences and reassure others going through similar symptoms.</description>
     </item>
     
     <item>
@@ -71,16 +81,6 @@ Project Details:
       <description>Here are some helpful tips for setting up this theme.
 Configuration Most of what you&amp;rsquo;ll want to configure is demonstrated in the exampleSite config.toml. This is Hugo&amp;rsquo;s configuration file. You can copy the config.toml in the exampleSite/ to your site root get started.
 Here are all the options included in the configuration file for this example site!  hello hello   Syntax Highlighting Introduction allows the use of Hugo&amp;rsquo;s rich built-in syntax highlighting capabilities.</description>
-    </item>
-    
-    <item>
-      <title>**Long** Form Post!</title>
-      <link>https://sc6354.github.io/portfolio/blog/long-form-post/</link>
-      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
-      
-      <guid>https://sc6354.github.io/portfolio/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
   </channel>
