@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://sc6354.github.io/portfolio/tags/data-visualization/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter</title>
+      <link>https://sc6354.github.io/portfolio/tags/jupyter/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/jupyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://sc6354.github.io/portfolio/tags/tableau/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/tags/tableau/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>flask</title>

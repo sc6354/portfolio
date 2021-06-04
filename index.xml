@@ -6,7 +6,7 @@
     <description>Recent content on Susan Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sc6354.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,15 @@ During this period, I became interested in the human face and its portions. Alth
       <guid>https://sc6354.github.io/portfolio/projects/writing/</guid>
       <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
 To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+    <item>
+      <title>Project 6 : Tableau Dashboard of My Spotify Data</title>
+      <link>https://sc6354.github.io/portfolio/blog/project6/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project6/</guid>
+      <description>Project Overview This project started from a desire to uncover more pattens in my music streaming data that Spotify does not present in their annual Wrapped Up. Essentially I wanted to explore how my streaming times and the music that I listened to changed with events in my life and the pandemic. From pure observation of using Spotify between my laptop and phone, I did noticed that I mostly listened to songs that were released two-three years back during this past year.</description>
     </item>
     
     <item>
@@ -88,7 +97,7 @@ Project Details:
       <guid>https://sc6354.github.io/portfolio/blog/project2/</guid>
       <description>Google Trends allows user to search for at most 5 keywords at a time. This project demostrates how to search for more than 5 terms at once using the Google Trends API in python.
 Project Details:
- I also a medium article for this project. Repo Link  </description>
+ I also wrote a medium article for this project. Repo Link  </description>
     </item>
     
     <item>

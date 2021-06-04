@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupyter on Susan Chen</title>
+    <link>https://sc6354.github.io/portfolio/tags/jupyter/</link>
+    <description>Recent content in Jupyter on Susan Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sc6354.github.io/portfolio/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 6 : Tableau Dashboard of My Spotify Data</title>
+      <link>https://sc6354.github.io/portfolio/blog/project6/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sc6354.github.io/portfolio/blog/project6/</guid>
+      <description>Project Overview This project started from a desire to uncover more pattens in my music streaming data that Spotify does not present in their annual Wrapped Up. Essentially I wanted to explore how my streaming times and the music that I listened to changed with events in my life and the pandemic. From pure observation of using Spotify between my laptop and phone, I did noticed that I mostly listened to songs that were released two-three years back during this past year.</description>
+    </item>
+    
+  </channel>
+</rss>
