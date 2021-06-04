@@ -28,6 +28,10 @@ Project 6 Tableau Dashboard of My Spotify Data - Susan Chen
 
 <meta property="og:image" content="https://sc6354.github.io/portfolio/blog/project6/MySpotifyDashboad.png"/>
 
+<meta property="og:image" content="https://sc6354.github.io/portfolio/blog/project6/db2.png"/>
+
+<meta property="og:image" content="https://sc6354.github.io/portfolio/blog/project6/db3.png"/>
+
 
 
         
@@ -161,7 +165,7 @@ Project 6 Tableau Dashboard of My Spotify Data - Susan Chen
     </h2>
     <div class="post-data">
         May 20, 20205 |
-        2 minutes read
+        4 minutes read
     </div>
     
     <div class="blog-share">
@@ -227,16 +231,19 @@ Project 6 Tableau Dashboard of My Spotify Data - Susan Chen
 Tools used: Tableau, Jupyter Notebook</p>
 
 <h2 id="final-dashboard" class="anchor-link"><a href="#final-dashboard">Final Dashboard</a></h2>
-<p><img src="MySpotifyDashboad.jpg" alt="My Spotify Data from May 2020 to May 2021"></p>
+<p><img src="MySpotifyDashboad.png" alt="My Spotify Data from May 2020 to May 2021"></p>
 
 <h2 id="part-1-data-extraction-and-processing" class="anchor-link"><a href="#part-1-data-extraction-and-processing">Part 1: Data Extraction and Processing</a></h2>
-<p>To obtain your Spotify data, you need to request it. After a couple weeks of waiting for Spotify to sent me my data, I finally received an email to download my data from my account. The data was packaged in json files. I used Jupyter notebook and Pandas to read the json files, convert &ldquo;msPlayed” (Stands for how many mili-seconds the track was listened) to minutes played. There is nothing wrong with mili-seconds but minutes was a bit easier to wrap my head around and compare streaming times, so I changed it.</p>
+<p>To obtain your Spotify data, you need to request it. After a couple weeks of waiting for Spotify to sent me my data, I finally received an email to download my data from my account. The data was packaged in json files. I used Jupyter notebook and Pandas to clean the dataset and convert &ldquo;msPlayed” (Stands for how many mili-seconds the track was listened) to minutes played. There is nothing wrong with mili-seconds but minutes was a bit easier to wrap my head around and compare streaming times, so I changed it.</p>
 
 <h2 id="part-2-creating-the-views" class="anchor-link"><a href="#part-2-creating-the-views">Part 2: Creating the Views</a></h2>
-<p>This is my first time using Tableau for data visualization. Previously I would either visualize data in a Jupyter Notebook, R, or create web visualizations with D3 and React. Naturally, I didn&rsquo;t find the software difficult to use.</p>
+<p>This is my first time using Tableau for data visualization. Previously I would either visualize data in a Jupyter Notebook, R, or create web visualizations with D3 and React. Thus, I didn&rsquo;t find the software difficult to use. My streaming data was only 678 KB, so I decided to keep it as a csv file and import it into Tableau using the flat file option. The first view is a heatmap of my most listened to artists by month. In the annual Wrapped-Up, Spotify does not aggregate data by month by rather by the entire year, so you can only see your top Artists for the entire year. From an user standpoint, I think Spotify should strongly consider expanding Wrapped-Up to include this data feature because users geniunely wanted see more of their data. This feature would allow users to see how their streaming habits change over time and I feel that this more exciting and interesting that seeing one&rsquo;s top Artists and genres.</p>
+<p><img src="db2.png" alt="James Arthur Highlight"></p>
+<p><img src="db3.png" alt="Joker Xue Most Streamed Month"></p>
+<p>The second view is a simple bar chart of my all-time most streamed artists with bars sorted by the total streaming time. I created this mostly to explore if my top artist from six months ago are still my top artists today. And the answer is no. Like much of 2020, my streaming habit that year was also all over the place. The third view is a table of the number of times a track was played for the specified artist and/or month.</p>
 
 <h2 id="conclusion" class="anchor-link"><a href="#conclusion">Conclusion</a></h2>
-<p>This project is a milestone in my data visualization journey. I was able to synthesize two different datasets and weave them into a cohesive personal story. I enjoyed every step in the process! I used all kinds of different tools for this project, and this was for sure a step for me to gain more technical skills. I learned to use Tableau and create simple interactivity using Adobe XD. In terms of gaining some insights to my relationship with Spotify, I was surprised. I have always been a fan of pop music, but data told me that I actually listened to sleeping aid music more than anything else! Overall, not only did I learned to deal with datasets and turn them into beautiful visualizations with various tool, I also learned more about myself and what role Spotify plays in my daily life.</p>
+<p>This project is a milestone in my data visualization journey. I was able to teach myself how to use Tableau and learn about the Spotify API. In terms of gaining some insights to my relationship with Spotify, I was a bit surprised. I knew that I was a seasonal listener from the Wrapped-Up report; meaning my streaming changes almost always lined with changes of the seasons. However, I did not know the extent of this effect. My most busiest streaming month in the second half of 2020 was August, following a very quiet summer of music listening. From memory, summer of 2020 was by far the most mundane summer since starting university. I lived in Florida during this time; the pandemic was at its height, my internship was gone, and weather unbelievably humid, which just further deterred me from going outside. In normal circumstances, all these factors would make me want to listen to more music, but the data clearly told me otherwise. Another trend that data exposed is that I can be a fanatic listeners sometimes. This trend is most evident in the months of August 2020, December 2020, February 2020, and March 2020 in which a couple artists accounted for over half of my streaming time. Overall, not only did I learned to deal with json files and use Tableau to create beautiful dashboard, I also learned more about myself and what role Spotify plays in my life than I did before this project.</p>
 
 </div>
 
