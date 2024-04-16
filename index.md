@@ -13,7 +13,7 @@ layout: default
 <br>
 
 <h2 align="center">
-  Selected Projects
+  <i>Selected Projects</i>
 </h2>
 
 <br>
@@ -33,7 +33,7 @@ Data used in this dashboard was collected by the a Kaggle user. Metrics include 
 ### Congressional Budget 1962 - 2022
 Data used in this dashboard was collected by the Congressional Budget Office from 1962 - 2022. Data also includes budget projections for 2023 to 2033.
 <br>
-[[Google Sheets Dashboard]](https://docs.google.com/spreadsheets/d/1eSVEzKv59yJtS4TWBdj6qXdbMVSGidBrFNTb5l5LC_4/edit)[[Slide Deck]](https://onedrive.live.com/view.aspx?resid=1549ED0BA9D95F0A%211834&authkey=!ADj1iROAqaYCyHA)
+[[Google Sheets Dashboard]](https://docs.google.com/spreadsheets/d/1eSVEzKv59yJtS4TWBdj6qXdbMVSGidBrFNTb5l5LC_4/edit) [[Slide Deck]](https://onedrive.live.com/view.aspx?resid=1549ED0BA9D95F0A%211834&authkey=!ADj1iROAqaYCyHA)
 
 <br>
 
