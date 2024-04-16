@@ -10,13 +10,13 @@ layout: default
 </p>
 
 * * *
-<br></b>
+<br>
 
 <h2 align="center">
   Selected Projects
 </h2>
 
-<br></b>
+<br>
 
 ### Naive Bayes Classifier on Predicting Student Placement
 This project involves predicting whether or not a student obtained placement based on their location (New York City, Chicago, Los Angeles), college GPA, and IQ Score. Prior to training, data was preprocessed and encoded as binary features (0 or 1).
