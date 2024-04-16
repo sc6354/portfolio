@@ -4,27 +4,20 @@ layout: default
 <h1 align="center">
   Susan Chen
 </h1>
+
 <p align="center">
-  susan[dot]chen[at]nyu.edu | <a href="https://www.linkedin.com/in/susan-chen-12787517a/">LinkedIn profile</a>
+  Data Analyst | susan[dot]chen[at]nyu.edu | <a href="https://www.linkedin.com/in/susan-chen-12787517a/">LinkedIn profile</a>
 </p>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h2 align="center">
+  Selected Projects
+</h2>
 
-[Link to another page](./another-page.html).
+## Naive Bayes Classifier on Predicting Student Placement
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> This project involves predicting whether or not a student obtained placement based on their location (New York City, Chicago, Los Angeles), college GPA, and IQ Score. Prior to training, data was preprocessed and encoded as binary features (0 or 1).
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
 
 ### Header 3
 
