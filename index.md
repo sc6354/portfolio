@@ -25,7 +25,8 @@ This project involves predicting whether or not a student obtained placement bas
 <br>
 
 ### Skincare Product Analytics 
-Data used in this dashboard was collected by the a Kaggle user. Metrics include most popular and purchased brands, highly demanded products measured by likes and purchase counts, etc.
+Data used in this dashboard was collected by the a Kaggle user. My goal included creating 5 custom gift lists with products that have obtained a certain data threshold. Metrics include most popular and purchased brands, highly demanded products measured by likes and purchase counts, etc. For example, the Must Have List contains 10 products across all brands with the highest buys per hearts. 
+This metric indicates that many who save the product actually come back to buy and review it. These products are the most likely to be out of stock since they have a consistenly strong demand from consumers. This information is good to know for consumers, but even better for retailers so that they can order products in time to meet the demand levels.
 <br>[[Jupyter Notebook]](https://github.com/sc6354/Kaggle_2022_survery_competition/blob/585230c256a9e330bf8680826826f463813f6716/2022-s-christmas-guide-to-skincare-gifting.ipynb)
 
 <br>
